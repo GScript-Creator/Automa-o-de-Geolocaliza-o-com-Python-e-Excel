@@ -1,1 +1,1 @@
-# Automa-o-de-Geolocaliza-o-com-Python-e-Excel
+# Desenvolvi uma automação em Python que lê um arquivo Excel contendo uma lista de endereços e preenche, automaticamente, as coordenadas aproximadas de latitude e longitude ao lado de cada um. Para isso, utilizei a biblioteca Geopy em conjunto com o pandas para manipulação dos dados. O sistema consulta um serviço de geolocalização (Nominatim/OpenStreetMap) e, caso o endereço não seja localizado, deixa os campos de latitude e longitude em branco, garantindo a integridade dos dados.
